@@ -1,0 +1,6 @@
+{
+  "name": "Aula Conectada Rural",
+  "description": "Plataforma analítica educativa, modelo predictivo Random Forest y código Python/Streamlit para el monitoreo de infraestructura TIC y deserción escolar rural (MINEDU / UCV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
